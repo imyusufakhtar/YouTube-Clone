@@ -1,7 +1,7 @@
 # YouTube-Clone --- React, Redux, Firebase and YouTube API.
 
 - A fully functional YouTube clone developed using modern web technologies: React, Redux, Firebase, YouTube API, CSS, HTML and JavaScript.
-   Developed a fully functional YouTube clone using modern web technologies: React, Redux, Firebase, YouTube API, CSS3, HTML, and JavaScript: This showcases your proficiency in using various front-end technologies such as React, Redux, and YouTube API for building a web application that mimics the functionality of YouTube.
+   - Developed a fully functional YouTube clone using modern web technologies: React, Redux, Firebase, YouTube API, CSS3, HTML, and JavaScript: This showcases your proficiency in using various front-end technologies such as React, Redux, and YouTube API for building a web application that mimics the functionality of YouTube.
 
 - Implemented user authentication using Firebase Authentication for registration, login and logout functions.
 
